@@ -1,0 +1,23 @@
+{
+  "name": "hellostanka.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "sass --no-source-map --watch main.scss:main.css --style compressed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellostanka/hellostanka.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellostanka/hellostanka.github.io/issues"
+  },
+  "homepage": "https://github.com/hellostanka/hellostanka.github.io#readme",
+  "devDependencies": {
+    "sass": "^1.38.2"
+  }
+}
